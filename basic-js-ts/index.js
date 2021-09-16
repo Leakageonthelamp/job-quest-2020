@@ -51,4 +51,3 @@ const fizzBuzz = (input) => {
   return (result.toString()).replace(/,/g, '')
 };
 
-console.log(fizzBuzz(45));
